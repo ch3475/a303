@@ -1,0 +1,9 @@
+---
+- name: Simple playbook
+  hosts: aerith
+
+  tasks:
+  - name: Say hello
+    debug:
+        msg: "Alright Everybody, let's mosey!"
+

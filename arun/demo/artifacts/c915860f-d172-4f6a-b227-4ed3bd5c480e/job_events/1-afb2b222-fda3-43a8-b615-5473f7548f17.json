@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "afb2b222-fda3-43a8-b615-5473f7548f17", "counter": 1, "stdout": "\u001b[1;35m[WARNING]: Unable to parse /home/student/a303/inv/dev as an inventory source\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "c915860f-d172-4f6a-b227-4ed3bd5c480e", "created": "2024-11-13T19:44:59.057206+00:00"}

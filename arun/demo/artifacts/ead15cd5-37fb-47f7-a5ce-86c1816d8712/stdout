@@ -1,0 +1,5 @@
+[1;35m[WARNING]: Unable to parse /home/student/a303/inv/dev as an inventory source[0m
+[1;35m[WARNING]: No inventory was parsed, only implicit localhost is available[0m
+[0;32mlocalhost | SUCCESS => {[0m
+[0;32m    "msg": "hello"[0m
+[0;32m}[0m
